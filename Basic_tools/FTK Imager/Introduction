@@ -1,11 +1,13 @@
 FTK Imager is a Window based forensics tool. It is a data preview and imaging tool that let us to quickly access the digital evidence 
 and use the images for further analysis. FTK imager is one of the tools which is often designated as an important part of investigation to 
 image the devices. It can be used to:-
-    •  Create forensics images
-    •  Preview files and folders
-    •  Mount images 
-    •  Export files and folders
-    •  Recover deleted files from the Recycle Bin 
-    •  Create hash of files
+    •  Create forensics images of local hard drives, USB, CDs && DVDs, complete folder or files from various places within the media. 
+    •  Preview files and folders on  local hard drives, USB, CDs && DVDs, network drives. 
+    •  Mount images for read only view.
+    •  Preview the content of forensics images on local computer or on network drive.
+    •  Export files and folders that are present in the forensics image.
+    •  View and Recover deleted files from the Recycle Bin if they are not over-written.
+    •  Capture live memory(RAM) that can be very useful in forensics investigation.
+    •  Create hash of files to verify them later.
 It is a simple, but very powerful tool for any examiner who is involved in digital forensics.
 FTK Imager can be downloaded for the official website of Accessdata:- https://accessdata.com/product-download/
