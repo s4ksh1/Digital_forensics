@@ -1,0 +1,7 @@
+This case study is related  to 2 people George and Martha working in a company . 
+George Montgomery has worked at a firm for several years and is now missing. Another employee, Martha, is also missing. No one knows where
+they are or has seen them in over a week, so Steve (George’s supervisor) asks the IT Department to confiscate George’s hard drive and all
+storage media in his work area. 
+We are having the image file of George’s hard drive and storage media. 
+For this we use FTK imager tool to analyze the image files and to recover deleted files and to investigate their case so as to find out
+what crime they have committed and how they did this crime.
