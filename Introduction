@@ -3,4 +3,24 @@ the facts regarding the digital evidences. Digital evidences can be found on com
 can say that it is a process of uncovering and explaining the data found on digital devices. The main goal of forensics is preserving 
 the data(evidence) in its most original form by following proper chain of custody. 
 Digital forensics is used both in criminal law and private investigation. The data found in digital devices is accepted as an evidence in 
-the court of law tp prove a particular crime.  
+the court of law to prove a particular crime.  
+Digital forensics was originally used as a synonym for computer forensics but with the advancement in technology, it has been expanded to
+cover the forensics(investigation) of all types of digital devices(like, Mobile phones, Digital cameras, various storage devices).
+
+There are various tools used by the forensics investigator for examination. These tools can provide live analysis, Data viewer, Data
+recovery, live memory capture, etc. These tools can create exact copy of the evidence which makes investigation more easier. Investigator
+can work on the copy which eliminates the risk of tampering the original evidence. 
+
+In general tools can be broken down into the following ten categories:
+
+1. Disk and data capture tools
+2. File viewers
+3. File analysis tools
+4. Registry analysis tools
+5. Internet analysis tools
+6. Email analysis tools
+7. Mobile devices analysis tools
+8. Mac OS analysis tools
+9. Network forensics tools
+10. Database forensics tools
+
